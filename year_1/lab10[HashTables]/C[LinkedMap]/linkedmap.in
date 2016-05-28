@@ -1,0 +1,56 @@
+put a a
+put b b
+put c c
+put d d
+put e e
+prev e
+del e
+get e
+next d
+put e e
+next d
+next e
+prev e
+get e
+put a a
+put b b
+put c c
+put d d
+put e e
+prev e
+del e
+get e
+next d
+put e e
+next d
+next e
+prev e
+get e
+put a a
+put b b
+put c c
+put d d
+put e e
+prev e
+del e
+get e
+next d
+put e e
+next d
+next e
+prev e
+get e
+put a a
+put b b
+put c c
+put d d
+put e e
+prev e
+del e
+get e
+next d
+put e e
+next d
+next e
+prev e
+get e
